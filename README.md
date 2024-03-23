@@ -9,7 +9,7 @@ Dados;
 - Conhecer os básico da linguagem de programação
 Python;
 - Desenvolver códigos básicos da linguagem Python.
-- 
+ 
 SEMANA 2
 - Conhecer os conceitos básicos de preparação de dados;
 - Desenvolver e entender códigos para preparação de
