@@ -1,7 +1,7 @@
 # Big-Data-Avancado-e-Mineiracao-de-Dados---IFMG 
-# Instrutor: Marcos Roberto Ribeiro. – Belo Horizonte: Instituto Federal de Minas Gerais, 2022
-
-# Conteúdo Programático do Curso:
+## Instrutor: Marcos Roberto Ribeiro. – Belo Horizonte: Instituto Federal de Minas Gerais, 2022
+## Carga Horária: 40 horas
+## Conteúdo Programático do Curso:
 
 SEMANA 1
 - Conhecer os conceitos de Big Data e Mineração de
